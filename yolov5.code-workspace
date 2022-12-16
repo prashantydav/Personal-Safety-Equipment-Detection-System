@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "yolov5",
+			"path": "../wobot_ai/YOLOv5 implementation/yolov5"
+		},
+		{
+			"name": "Personal_Safety_Equipment_Detection_System",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
